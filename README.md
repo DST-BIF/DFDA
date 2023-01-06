@@ -5,7 +5,7 @@
 This GitHub page for Danish Football Data Analysis was created for the Football Performance Summit 2023 but is intended to provide professionals in Danish football and hobbyists worldwide with <strong>*a basic*</strong> starting point for doing data analysis.
 
 ## Data use
-By downloading any data you accept the following [terms of use](https://github.com/DST-BIF/DFDA/blob/6880efd546e15e28850cab1761027c4496dd670b/LICENSE.md)
+By downloading any data you accept the following [terms of use](https://github.com/DST-BIF/DFDA/blob/main/LICENSE.md)
 
 ## Presentation from Football Performance Summit 2023
 Link to [presentation](https://sijedivfor.github.io/summit/)
