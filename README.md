@@ -8,7 +8,7 @@ This GitHub page for Danish Football Data Analysis was created for the Football 
 By downloading any data you accept the following [terms of use](https://github.com/DST-BIF/DFDA/blob/6880efd546e15e28850cab1761027c4496dd670b/LICENSE.md)
 
 ## Presentation from Football Performance Summit 2023
-Link to [presentation](https://sijedivfor.github.io/footballperformancesummit/)
+Link to [presentation](https://sijedivfor.github.io/summit/)
 
 ## Translating your style of play
 Link to [KPI Generator](https://divisionsforeningen.shinyapps.io/summit/)
