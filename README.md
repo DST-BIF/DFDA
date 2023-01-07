@@ -236,7 +236,7 @@ The notebook "4. Tracking data" teaches you how to import data from CSV files, p
 
 ### Club access
 
-Contact Divisionsforeningen to get access to the data warehouse - in which most pre-processing has been done for you.
+Contact Divisionsforeningen at divisionsforeningen@kmd.dk
 
 ### Open data
 
